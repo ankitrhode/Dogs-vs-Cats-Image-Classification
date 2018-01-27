@@ -12,6 +12,7 @@ Step 4: Full connection <br />
 Model - Convolutional Neural Network <br />
 Language - Python <br />
 Machine Learning Library - Keras <br />
+Dataset - Dogs vs. Cats available on Kaggle <br />
 
 ## Installation:
 Install `Tensorflow` using `pip install tensorflow` <br />
